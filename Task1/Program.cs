@@ -2,7 +2,7 @@
 
 void NaturalТumber(int N)
 {
-    int counter=1;
+   
    if (N < 0) Console.Write($"{N} не натуральное число");
     if(N !=0)
 {
